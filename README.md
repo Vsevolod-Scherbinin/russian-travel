@@ -9,4 +9,4 @@
 * адаптивная вёрстка (grid + flex);
 * интерактивное изменение внешнего вида объектов (hover + overlay)
 
-[Ссылка на проект на GitPages] (///)
+[Ссылка на проект на GitPages](https://vsevolod-scherbinin.github.io/russian-travel/index.html)
