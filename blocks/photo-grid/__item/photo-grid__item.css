@@ -1,0 +1,6 @@
+.photo-grid__item {
+  align-self: center;
+  justify-self: center;
+  min-width: 100%;
+  height: auto;
+}
