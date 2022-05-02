@@ -2,22 +2,16 @@
   margin: 0;
   padding: 0;
   padding-top: 92px;
-  list-style: none;
-  display: grid;
-  gap: 80px;
-  align-items: center;
 }
 
 @media screen and (max-width: 1023px) {
   .places {
     padding-top: 88px;
-    gap: 73px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
     padding-top: 66px;
-    gap: 50px;
   }
 }

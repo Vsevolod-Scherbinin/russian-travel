@@ -7,7 +7,9 @@
   font-weight: 900;
   max-width: 560px;
   text-align: center;
+  filter: none;
   z-index: 1;
+  position: relative;
 }
 
 @media screen and (max-width: 767px) {
