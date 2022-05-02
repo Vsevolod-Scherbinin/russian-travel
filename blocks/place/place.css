@@ -1,8 +1,8 @@
 .place {
-  margin: 0;
+  margin: 0 auto;
   padding: 0 148px;
   display: grid;
-  grid-template-columns: calc(460/1280*100vw) calc(484/1280*100vw);
+  grid-template-columns: 460px 484px;
   gap: 48px 40px;
   justify-content: center;
 }
